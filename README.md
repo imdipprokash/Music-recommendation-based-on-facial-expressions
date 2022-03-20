@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-Pls change key dtls under the key.dart file
-then use flutter run
+#Pls change key dtls under the key.dart file
+#then use flutter run
 
 
 
