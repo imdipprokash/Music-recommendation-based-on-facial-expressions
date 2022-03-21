@@ -1,8 +1,13 @@
-# finalsem_project
+# Music-recommendation-based-on-facial-expressions
 
 A new Flutter project.
 
 ## Getting Started
+
+#Pls change key dtls under the key.dart file
+#then use flutter run
+
+
 
 This project is a starting point for a Flutter application.
 
